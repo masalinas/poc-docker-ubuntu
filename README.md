@@ -33,6 +33,10 @@ We could go inside the container directly from this command
 docker start -i ubuntu
 ```
 
+```shell
+docker exect -it ubuntu
+```
+
 ## Exit the containr and remove it
 
 ```shell
