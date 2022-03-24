@@ -34,7 +34,7 @@ docker start -i ubuntu
 ```
 
 ```shell
-docker exect -it ubuntu
+docker exect -it ubuntu bash
 ```
 
 ## Exit the containr and remove it
